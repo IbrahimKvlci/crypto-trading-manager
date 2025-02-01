@@ -27,8 +27,10 @@ To install Crypto Trading Manager, follow these steps:
     npm install requirements.txt
     ```
 4. Create the .env file includes:
+    ```
     BINANCE_TEST_API_KEY=<YourTestApiKey>
     BINANCE_TEST_API_SECRET=<YourTestApiSecret>
+    ```
 
 ## Contributing
 
