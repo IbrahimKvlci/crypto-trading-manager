@@ -15,7 +15,7 @@ We welcome new feature requests! Please open an issue on our [GitHub Issues](htt
 1. **Fork the Repository**: Fork the repository to your own GitHub account.
 2. **Clone the Repository**: Clone the forked repository to your local machine.
     ```sh
-    git clone https://github.com/IbrahimKvlci/crypto-trading-manager.git
+    git clone https://github.com/yourusername/crypto-trading-manager.git
     ```
 3. **Create a Branch**: Create a new branch for your feature or bugfix.
     ```sh
