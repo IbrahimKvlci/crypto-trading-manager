@@ -32,7 +32,7 @@ To install Crypto Trading Manager, follow these steps:
 
 ## Contributing
 
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.MD) for more details.
 
 ## License
 
